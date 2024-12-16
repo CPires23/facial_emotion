@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FaceEmotionApp",
+            "request": "launch",
+            "mainClass": "FaceEmotionApp",
+            "projectName": "FaceRecognition_9aece86d"
+        },
+        {
+            "type": "java",
+            "name": "GUIApp",
+            "request": "launch",
+            "mainClass": "GUIApp",
+            "projectName": "FaceRecognition_9aece86d"
+        },
+        {
+            "type": "java",
             "name": "SimpleSample",
             "request": "launch",
             "mainClass": "SimpleSample",
